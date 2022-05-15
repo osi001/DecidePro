@@ -5,6 +5,7 @@ This is a simple decisions making app consisting of features for making easy dec
 
 
 The project directory can be found at
+https://github.com/osi001/DecidePro
 
 
 Video demonstrating app potential can be found at 
