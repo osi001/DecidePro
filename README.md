@@ -13,3 +13,14 @@ https://uweacuk-my.sharepoint.com/:v:/g/personal/osiano2_momoh_live_uwe_ac_uk/EV
 
 
 
+To run the project
+
+Download DecidePro copy.zip
+open folder DecidePro copy
+open DecidePro.xcworkspace with xcode
+build
+
+
+
+
+
